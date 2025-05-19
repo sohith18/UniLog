@@ -161,12 +161,9 @@ MONGO.MERGE(HIVE)
 
 ## Contributions
 
-- **Sai Venkata Sohith Gutta (IMT2022042)**: Implemented the Hive-based system, designed the timecache mechanism, and made key architectural decisions (36%)
+- **Sai Venkata Sohith Gutta**: Implemented the Hive-based system, designed the timecache mechanism, and made key architectural decisions (36%)
   
-- **Aaryan Ajith Dev (IMT2022038)**: Implemented the MongoDB service class and led the design of a generalized operation log format for seamless merges (32%)
+- **Aaryan Ajith Dev**: Implemented the MongoDB service class and led the design of a generalized operation log format for seamless merges (32%)
   
-- **Shreyas S (IMT2022078)**: Implemented data integration and synchronization for PostgreSQL (32%)
+- **Shreyas S**: Implemented data integration and synchronization for PostgreSQL (32%)
 
-## License
-
-[MIT License](LICENSE)
